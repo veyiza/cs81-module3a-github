@@ -1,4 +1,5 @@
-// Greet a user by name
+// Greet a user
 function greet(name) {
   return "Hello, " + name + "!";
 }
+
